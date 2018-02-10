@@ -1,5 +1,7 @@
 {
     "require": {
-        "livechat/api-client-php": "^1.1"
+        "livechat/api-client-php": "^1.1",
+        "vlucas/phpdotenv": "^2.4"
+        
     }
 }
